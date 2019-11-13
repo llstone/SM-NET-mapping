@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>开源 on 石头的程序人生</title>
+    <link>http://luckystone.site/tags/%E5%BC%80%E6%BA%90/</link>
+    <description>Recent content in 开源 on 石头的程序人生</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Sun, 28 Apr 2019 16:39:28 +0800</lastBuildDate>
+    
+	<atom:link href="http://luckystone.site/tags/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://luckystone.site/post/first/</link>
+      <pubDate>Sun, 28 Apr 2019 16:39:28 +0800</pubDate>
+      
+      <guid>http://luckystone.site/post/first/</guid>
+      <description>&lt;p&gt;编程人生，从现在开始.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
